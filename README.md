@@ -1,6 +1,6 @@
 Daily NumPy practice log. Learning arrays, vectors, and scientific Python.
 
-## 🚀 Daily Workflow
+## (rocket_emoji :))Daily Workflow
 
 ```bash
 # 1. Navigate to repo
