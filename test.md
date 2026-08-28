@@ -1,0 +1,29 @@
+# NLP
+
+- Mathematical Foundation (20%)
+  - Linear algebra
+      - vectors(dot products, orthogs,spans)
+      - linear weighted combinations
+      - correlations (pearson/cosine simi)
+      - k-means clustering
+      -matrix 1/3
+  - Probability
+  - Calculus
+  - Reference: Mathematics for machine learning PDF
+- Architecture & Frontier Papers (0/25%)
+  - Transformers
+  - Attention Variants
+  - Alignment
+- Applied Systems & Evals (0/20%)
+  - RAG
+  - Structured outputs
+  - Deterministic Evals
+- High Performance Engineering (0/25%)
+  - GPU Memory
+  - Inference Engines
+  - Quantization
+- Classical NLP & Token Dynamics (5/10%)
+  - Tokenizations (BPE)
+  - Syntax
+  - Morphology
+  - Reference: Speech and Language Processing by Dan Jurafsky
